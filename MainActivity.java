@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Testing the differencer in Git
+        //Test of testing-merge branch
     }
 }
