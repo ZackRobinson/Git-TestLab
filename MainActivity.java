@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //Testing the differencer in Git
         //Test of testing-merge branch
         //Test 2 of testing-merge branch
+        //Test 3 of the testing-merge branch
     }
 }
